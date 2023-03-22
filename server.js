@@ -8,7 +8,7 @@ import cors from 'cors'
 //app config
 const app=express();
 const port =process.env.PORT || 8001
-const connection_url="mongodb+srv://tinder:<password>@cluster0.atoczyy.mongodb.net/tinderdb?retryWrites=true&w=majority"
+const connection_url="mongodb+srv://tinder:2wqoWZlvrfPwQSII@cluster0.atoczyy.mongodb.net/tinderdb?retryWrites=true&w=majority"
 //"mongodb://localhost:27017/tinderdb"
 
 
